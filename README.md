@@ -23,6 +23,9 @@ Servidor
 Temas Acerca del diseño orientado a objetos
 # https://sourcemaking.com/design_patterns
 # https://github.com/socketio/socket.io
-# https://cloud.digitalocean.com/registrations/new
 # https://bitbucket.org/
+
+# Servicios de Hosting
+# https://cloud.digitalocean.com/registrations/new
 # https://cloud.google.com/?utm_source=bing&utm_medium=cpc&utm_campaign=latam-CO-all-es-dr-BKWS-all-all-trial-e-dr-1710136-LUAC0016548&utm_content=text-ad-none-any-DEV_c-CRE_-ADGP_Hybrid+%7C+BKWS+-+MIX+%7C+Txt_+GCP-General-KWID_43700067399688675-kwd-77722084987417:loc-43&utm_term=KW_Google%20Cloud-ST_Google+Cloud&&msclkid=6d5f0607b417141adfb961a11ace9890&gclid=6d5f0607b417141adfb961a11ace9890&gclsrc=3p.ds
+# https://byet.host/
