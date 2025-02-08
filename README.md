@@ -1,15 +1,15 @@
 # Dise-o_Orientado_A_Objetos
 Temas
-1. Identificar principios de diseño orientado a objetos en casos reales
-• Evolución de los mecanismos de abstracción de los objetos.
-• Diseño de sistemas: heurística general para encontrar clases.
-• Tarjetas CRC.
-• Diagrama de Clases.
-• Principios de Diseño Orientado a Objetos: Abierto - Cerrado, Sustitución de Liscov, Inversión
+#1. Identificar principios de diseño orientado a objetos en casos reales
+#• Evolución de los mecanismos de abstracción de los objetos.
+#• Diseño de sistemas: heurística general para encontrar clases.
+#• Tarjetas CRC.
+#• Diagrama de Clases.
+#• Principios de Diseño Orientado a Objetos: Abierto - Cerrado, Sustitución de Liscov, Inversión
 de dependencia, separación de la interfaz, equivalencia reutilización/revisión, cierre común,
 reutilización común, dependencia acíclica, dependencias estables, abstracciones estables.
-• Ley de Demeter y el principio del egoísmo.
-2. Utilizar principios de diseño orientado a objetos en arquitecturas Cliente –
+#• Ley de Demeter y el principio del egoísmo.
+#2. Utilizar principios de diseño orientado a objetos en arquitecturas Cliente –
 Servidor
 • Persistencia y concurrencia.
 • Hilos: Definiciones, Clases, Interfaces, Comunicación entre hilos.
