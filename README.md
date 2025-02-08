@@ -11,15 +11,15 @@ reutilización común, dependencia acíclica, dependencias estables, abstraccion
 # • Ley de Demeter y el principio del egoísmo.
 # 2. Utilizar principios de diseño orientado a objetos en arquitecturas Cliente –
 Servidor
-• Persistencia y concurrencia.
-• Hilos: Definiciones, Clases, Interfaces, Comunicación entre hilos.
-• Sokcets: Definiciones, Clases, Interfaces, Protocolo TCP, Protocolo UDP.
-• Manejo de Archivos.
-• Conexión a Base de datos.
-3. Aplicar los principios de diseño orientado a objetos en aplicaciones web
-• Arquitectura Web con LPOO: definiciones y conceptos.
-• Arquitectura en tres capas.
-• El servidor.
+# • Persistencia y concurrencia.
+# • Hilos: Definiciones, Clases, Interfaces, Comunicación entre hilos.
+# • Sokcets: Definiciones, Clases, Interfaces, Protocolo TCP, Protocolo UDP.
+# • Manejo de Archivos.
+# • Conexión a Base de datos.
+# 3. Aplicar los principios de diseño orientado a objetos en aplicaciones web
+# • Arquitectura Web con LPOO: definiciones y conceptos.
+# • Arquitectura en tres capas.
+# • El servidor.
 Temas Acerca del diseño orientado a objetos
 # https://sourcemaking.com/design_patterns
 # https://github.com/socketio/socket.io
