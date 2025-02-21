@@ -3,8 +3,8 @@
 
 ### Tarjetas  CRC
 - Clases
-- Responsabilidades
-- Colaboracion
+- Responsabilidades -> Metodos 
+- Colaboracion -> Atributos
   
   ![Tarjetas CRC ](https://th.bing.com/th/id/R.ed2044a5e072431bce3dc10ac5c9189b?rik=GxzkPVwlORUtmg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-oITqfrcYx7I%2fToTf0G3l-aI%2fAAAAAAAAACo%2f4JwbeFwZDDk%2fs400%2fcrc.png&ehk=EveCtd0fdPFZXLqGjoU88X5RKwHHScFYHjxA8wnA2Xk%3d&risl=&pid=ImgRaw&r=0)
 
