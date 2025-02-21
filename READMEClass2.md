@@ -129,13 +129,13 @@
 ![Srum process](https://ntsprint.com/wp-content/uploads/2024/01/Scrum-Process_Articulo_Semana-32_2022_1-2048x1024-1.jpg)
 <!-- Codigo -->
  ```sh
-https://ntsprint.com/wp-content/uploads/2024/01/Scrum-Process_Articulo_Semana-32_2022_1-2048x1024-1.jpg
+https://certiprof.com/es/pages/certificacion-en-scrum-es
  ```
 ### Curso gratis para Scrum 
 
 <!-- Codigo -->
  ```sh
-https://ntsprint.com/wp-content/uploads/2024/01/Scrum-Process_Articulo_Semana-32_2022_1-2048x1024-1.jpg
+https://certiprof.com/es/pages/certificacion-en-scrum-es
  ```
 #
 ###
