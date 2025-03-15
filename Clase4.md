@@ -7,6 +7,11 @@
 - D: Principio de inversión de dependencias (Dependency Inversion Principle - DIP).
 ## Contexto
 
+## Que es una interfaz en java?
+- En Java, una interfaz es un tipo abstracto que contiene una colección de métodos y variables constantes.
+- Las interfaces no tiene ni metodos ni atributos
+- las interfaces no tiene codigo 
+- Con una Interface no se usa extends si no el implement
 
 ## Teoria Y Ejemplos  principios SOLID
  ```sh
