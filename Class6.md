@@ -37,3 +37,12 @@ Verificar si la pila está vacía: Se utiliza el método isEmpty para comprobar 
 - Un microservicio es simplemente una pequeña aplicación que se encarga de hacer una única tarea. 
 A diferencia de una aplicación monolítica, donde todo está junto en un único bloque, 
 los microservicios dividen esa gran aplicación en pequeñas partes que funcionan de manera independiente.
+
+
+
+
+
+### SITIO RECOMENDADO PARA ESTUDIAR HILOS:
+ ```sh
+https://www.w3schools.com/java/java_threads.asp
+ ```
