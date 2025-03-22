@@ -39,10 +39,49 @@ A diferencia de una aplicación monolítica, donde todo está junto en un único
 los microservicios dividen esa gran aplicación en pequeñas partes que funcionan de manera independiente.
 
 
-
+## El problema de lectores-escritores 
+- es un dilema de programación que se crea cuando varios lectores y escritores necesitan acceder al mismo recurso. Si se les permitiera el acceso a todos a la vez, podrían surgir problemas como sobrescrituras, información incompleta y otros problemas1. Los lectores y escritores proporcionan I/O simple para datos basados en texto/caracteres2.
 
 
 ### SITIO RECOMENDADO PARA ESTUDIAR HILOS:
  ```sh
 https://www.w3schools.com/java/java_threads.asp
  ```
+
+
+Java Threads
+Java Threads
+Threads allows a program to operate more efficiently by doing multiple things at the same time.
+
+### Threads can be used to perform complicated tasks in the background without interrupting the main program.
+
+Creating a Thread
+There are two ways to create a thread.
+
+It can be created by extending the Thread class and overriding its run() method:
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+### Datos sobre los hilos
+- Los hilos son totalmente indepedientes, no se ejecutan de manera lineal.
+
+Ejemplos:
+
+```sh
+https://github.com/dfleper/ProducerConsumerThreads/blob/master/src/main/java/com/dfleper/ProducerConsumerThreads/Consumer.java
+```
