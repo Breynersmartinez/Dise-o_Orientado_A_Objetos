@@ -12,11 +12,27 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
+
+/*1)  APLICACION DEL PRINCIPIO DE RESPONSABILIDAD UNICA
+* En esta clase controladora, se tiene una unica responsabilidad que es simplemente:
+* manejar las solicitudes de HTTP y mapearlas
+* y preparta las respuestas correspondientes
+* entonces la resposabilidad principal seria recibir y dirigir el flujo de contrl hacia los componentes adecuados:
+* Como a los servicios y clases de negocio
+* entonces no va tener la responsabilidad de validar ni de hacer otras operaciones
+* */
 @RestController
 @RequestMapping("/api/usuarios")
 public class UserController {
-    @Autowired
-    private UserService userService;//principio de Inversión de Dependencias (IoD)
+
+    private final UserService userService; //principio de Inversión de Dependencias (IoD)
+
+    @Autowired //constructor que inyecta la dependencia  userService mediante el constructor
+    public UserController(UserService userService)
+    {
+        this.userService = userService;
+    }
+
 
     //Create a new user
     @PostMapping

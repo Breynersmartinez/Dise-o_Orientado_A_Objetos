@@ -13,13 +13,14 @@ import java.util.Optional;
 /*
 * Esta interfaz nos va permitir definir los metodos que van a interactuar con las
 * entidades de tipo usuario, en esta capa de servicios
+* En esta interfaztodos los metodos son abstractos
 * */
 
 
 public interface UserService {
 
 /*
- *Este metodo nos va a reornar todos los registros de losusuarios
+ *Este metodo nos va a reornar todos los registros de los usuarios
  * existentes en la base de datos
  * nos devuelve un iterable de onetos de la clase usuario
  * */
