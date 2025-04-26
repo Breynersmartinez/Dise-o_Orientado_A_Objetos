@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Dise-o_Orientado_A_Objetos.iml" filepath="$PROJECT_DIR$/Dise-o_Orientado_A_Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-project.iml" filepath="$PROJECT_DIR$/parent-project.iml" />
     </modules>
   </component>
 </project>
