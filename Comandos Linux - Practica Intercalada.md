@@ -30,6 +30,9 @@ touch archivo1.txt                      # Crear archivo vacío
 touch archivo2.txt archivo3.txt         # Crear múltiples archivos
 vim nombre_archivo.txt                     # Crea/edita un archivo con el editor vim
 ls -l                                   # Ver los archivos creados
+rm -r  practica_linux                    # Para eliminar un directorio completo, incluyendo subdirectorios y archivos
+
+rmdir  practica_linux                             # Para eliminar un directorio vacío, utiliza el comando rmdir 
 ```
 
 ## Ejercicio 3: Edición y Visualización de Archivos
