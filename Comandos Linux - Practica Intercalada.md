@@ -1,3 +1,11 @@
+## Uso de comandos en Linux (Breiner)
+El uso de comandos en Linux es fundamental porque nos permite interactuar directamente con el sistema operativo, sin necesidad de interfaces gráficas.
+
+A través de la terminal, podemos controlar y automatizar tareas, acceder a archivos, gestionar usuarios, monitorear el sistema y mucho más, de forma rápida y eficiente.
+
+Aprender estos comandos nos da más poder como usuarios y como futuros ingenieros de sistemas, ya que muchas herramientas de desarrollo, servidores y sistemas operativos se basan en Linux.
+
+
 ## Ejercicio 1: Navegación y Listado
 
 **Breiner ejecuta:**
