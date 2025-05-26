@@ -170,17 +170,4 @@ ls -la                                      # Verificar eliminación
 
 ---
 
-## Consejos para la Práctica:
 
-1. **Alternen turnos**: Cada uno ejecute su bloque de comandos antes de que el otro continúe
-2. **Observen los resultados**: Después de cada comando, analicen la salida
-3. **Hagan preguntas**: Si algo no funciona como esperan, discútanlo
-4. **Experimenten**: Una vez completados los ejercicios, prueben variaciones
-5. **Usen `man comando`**: Para obtener ayuda detallada de cualquier comando
-
-## Atajos de Teclado Útiles:
-- `Ctrl + C`: Interrumpir comando actual
-- `Ctrl + L`: Limpiar pantalla (equivale a `clear`)
-- `Ctrl + R`: Buscar en historial de comandos
-- `Tab`: Autocompletar nombres de archivos y directorios
-- `↑/↓`: Navegar por historial de comandos
