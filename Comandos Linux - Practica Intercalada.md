@@ -28,6 +28,7 @@ mkdir -p proyectos/web/frontend         # Crear directorios anidados
 cd practica_linux                       # Entrar al mismo directorio
 touch archivo1.txt                      # Crear archivo vacío
 touch archivo2.txt archivo3.txt         # Crear múltiples archivos
+vim nombre_archivo.txt                     # Crea/edita un archivo con el editor vim
 ls -l                                   # Ver los archivos creados
 ```
 
@@ -38,6 +39,8 @@ ls -l                                   # Ver los archivos creados
 echo "Hola, soy Breiner" > archivo1.txt    # Escribir contenido
 echo "Línea 2" >> archivo1.txt             # Añadir contenido
 cat archivo1.txt                            # Ver contenido completo
+rm archivo1.txt                            # eliminacion de archivos
+
 ```
 
 **Andrés ejecuta:**
