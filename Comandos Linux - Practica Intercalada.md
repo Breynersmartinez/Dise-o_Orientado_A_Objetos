@@ -84,16 +84,18 @@ ls -l archivo*.txt                          # Ver permisos de todos los archivos
 
 **Andrés ejecuta:**
 ```bash
-whoami                                      # Ver tu usuario actual
-id                                          # Ver ID y grupos
-pwd                                         # Ver directorio actual
+sudo adduser juan                    # Crear un nuevo usuario
+sudo usermod -aG sudo juan          # Añadir a grupo sudo
+groups juan                         # Ver grupos del usuario
+
 ```
 
 **Breiner ejecuta:**
 ```bash
-users                                       # Ver usuarios conectados
-who                                         # Ver quién está conectado
-clear                                       # Limpiar pantalla
+sudo deluser juan                   # Eliminar el usuario
+sudo groupadd desarrolladores       # Crear grupo
+sudo groupdel desarrolladores       # Eliminar grupo
+
 ```
 
 ## Ejercicio 7: Búsqueda y Filtrado
