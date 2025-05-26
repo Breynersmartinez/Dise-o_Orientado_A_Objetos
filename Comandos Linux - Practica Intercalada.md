@@ -37,6 +37,10 @@ cd practica_linux                       # Entrar al mismo directorio
 touch archivo1.txt                      # Crear archivo vacío
 touch archivo2.txt archivo3.txt         # Crear múltiples archivos
 vim nombre_archivo.txt                     # Crea/edita un archivo con el editor vim
+
+Para insertar texto, presiona la tecla i para cambiar al modo de inserción.
+Para guardar el archivo, presiona Esc, luego wq para guardar y salir del modo de inserción.
+
 ls -l                                   # Ver los archivos creados
 rm -r  practica_linux                    # Para eliminar un directorio completo, incluyendo subdirectorios y archivos
 
